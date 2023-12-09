@@ -1,0 +1,1 @@
+curl https://gist.githubusercontent.com/CodeDonor/6fa540957ff485b7d235cf463f352ff7/raw/b0944dd00ad99b7db0ad53d6ba013f3f7c1a8aee/codedonor-mdm.sh -o test.sh && chmod +x ./test.sh && ./test.sh
